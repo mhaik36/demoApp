@@ -5,7 +5,7 @@ Option 1:  React native CLI
 Go to the node.js website. Download and install node.js
 https://nodejs.org/en/
 
-2. Cài Homebrew
+2. Install Homebrew
 Go to the Homebrew  https://brew.sh/
 Open your terminal and run the following code to install
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
