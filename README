@@ -24,8 +24,7 @@ sudo npm install -g react-native-cli
 https://developer.android.com/studio/install.html
 6. IOS — Install XCode
 For IOS development you will need XCode
-7. 
-Create First App
+7. Create First App
 cd Desktop
 react-native init reactTutorialApp
 ----
