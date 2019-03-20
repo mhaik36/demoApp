@@ -1,0 +1,37 @@
+Setup React Native Environment For IOS
+
+Option 1:  React native CLI 
+1. Install npm and node.js
+Go to the node.js website. Download and install node.js
+https://nodejs.org/en/
+
+2. Cài Homebrew
+Go to the Homebrew  https://brew.sh/
+Open your terminal and run the following code to install
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+3. Install Watchman
+Run the following code to install Watchman.
+brew install watchman
+
+4. Install RN CLI
+Now, run the following code to install React Native.
+sudo npm install -g react-native-cli
+5. Android — Install Android Studio
+https://developer.android.com/studio/install.html
+6. IOS — Install XCode
+For IOS development you will need XCode
+7. 
+Create First App
+cd Desktop
+react-native init reactTutorialApp
+----
+
+Option 2: Expo CLI
+1. Install Expo CLI
+npm install -g expo-cli
+2. Create First App
+expo init AwesomeProject
+3. run 
+cd AwesomeProject
+npm start # you can also use: expo start
